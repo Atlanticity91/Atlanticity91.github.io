@@ -1,0 +1,20 @@
+{
+  "pages" : [
+    {
+      "key" : "home",
+      "mode" : "locale",
+      "url" : "home.html"
+    },
+    {
+      "key" : "download",
+      "mode" : "locale",
+      "url" :"download.html"
+    },
+    {
+      "key" : "history",
+      "mode" : "locale",
+      "url" : "history.html"
+    }
+  ],
+  "page" : "home"
+}
