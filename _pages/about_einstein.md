@@ -1,5 +1,5 @@
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Programmer en s'amusant et créer des histoires pour embellir le monde.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Je suis passionné de programmation, outils et moteur, de [OpenGL](https://www.opengl.org/) à [Vulkan](https://www.vulkan.org/) pour de la 2D ou des rendus 3D ; des outils de création et mise en relation d'API pour créer un tout. Rien de vaut la sensation après avoir assembler tous les blocs d'un projet et de voir la fenêtre d'application prendre vie.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Mes projets et posts en cours portent essentiellement sur la suite [Micro] (https://atlanticity91.github.io/Micro/) et les différents outils qui l'utilisent.
